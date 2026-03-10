@@ -109,8 +109,14 @@ This project demonstrates:
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Leen Ahmad**  
-Computer Engineering Student  
+
+**Diaa Badaha**  
+
+**Mai Zaied**  
+
+**Malak Moqbel**  
+Computer Engineering Students  
 Birzeit University
